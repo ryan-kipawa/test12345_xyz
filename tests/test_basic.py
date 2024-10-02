@@ -1,4 +1,4 @@
-import my_library as ml
+import test12345_xyz as ml
 
 
 def test_module_docstring():

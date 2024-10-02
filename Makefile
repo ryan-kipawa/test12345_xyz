@@ -1,4 +1,4 @@
-LIB = my_library
+LIB = test12345_xyz
 
 check: lint typecheck test doctest
 
